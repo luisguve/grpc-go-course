@@ -1,0 +1,5 @@
+/src_code/*
+/database/*.db
+/database/*.lock
+*.sh
+*.txt
